@@ -1,5 +1,5 @@
 [package]
-name = "casse-tete"
+name = "casscf-tete"
 version = "0.1.0"
 authors = ["Cyrille Lavigne <clavigne@chem.utoronto.ca>"]
 edition = "2018"
