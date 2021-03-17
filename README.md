@@ -1,4 +1,4 @@
-# cassf-tete
+# casscf-tete
 
 > Casse-tête (n.m.): Au Québec, un puzzle. 
 > --- [Larousse dictionary](https://www.larousse.fr/dictionnaires/francais/casse-t%C3%AAte/13626)
