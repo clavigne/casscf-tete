@@ -1,7 +1,7 @@
 # cassf-tete
 
-    Casse-tête (n.m.): Au Québec, un puzzle. 
-    --- [Larousse dictionary](https://www.larousse.fr/dictionnaires/francais/casse-t%C3%AAte/13626)
+> Casse-tête (n.m.): Au Québec, un puzzle. 
+> --- [Larousse dictionary](https://www.larousse.fr/dictionnaires/francais/casse-t%C3%AAte/13626)
 
 `casscf-tete` is a simple program that builds input decks for US-GAMESS
 CAS-SCF calculations.
